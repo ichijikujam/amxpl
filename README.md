@@ -1,6 +1,15 @@
 # amxpl
-Arduinoを介した物理機器でXplaneの操作を行うためのAir Managerコード
+Arduinoを介した物理機器でXplaneの操作を行うためのAir Managerコード  
 
+### requirements
+x-plane  
+air manager  
+arduino mega  
+dual axis rotery encoder  
+single axis rotery encoder  
+sliter switch for throttle  
+  
+  
 ## ap_airspeed_dial.lua
 
 <img width="235" alt="ap_airspeed" src="https://user-images.githubusercontent.com/90855755/135490496-52d6eb6e-f987-4c83-9a29-5b5f85f2274f.png">

@@ -2,7 +2,7 @@
 Arduinoを介した物理機器でXplaneの操作を行うためのAir Managerコード  
 
 ### requirements
-x-plane  
+x-plane(zibo 738X or Aircraft equipped with g1000)  
 air manager  
 arduino mega  
 dual axis rotery encoder  

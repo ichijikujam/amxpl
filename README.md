@@ -18,7 +18,7 @@ Arduinoを介した物理機器でXplaneの操作を行うためのAir Manager�
 <img width="235" alt="ap_vertical_speed" src="https://user-images.githubusercontent.com/90855755/135490514-1d230a96-ad80-4100-a0cd-8de0782cf5b6.png">
 
 ## com1_dial.lua
-
+<img width="436" alt="com1_stby" src="https://user-images.githubusercontent.com/90855755/135490527-a697e358-af1b-47cd-8e04-6ef3f8157dbe.png">
 
 ## g1000_fms_outer_inter_dial_and_button.lua
 <img width="641" alt="g1000_fms_innter_outer_dial_and_button" src="https://user-images.githubusercontent.com/90855755/135483710-d533048f-cc7c-4128-845a-8640bf488bec.png">

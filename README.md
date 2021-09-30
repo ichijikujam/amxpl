@@ -7,7 +7,7 @@ air manager
 arduino mega  
 dual axis rotery encoder  
 single axis rotery encoder  
-sliter switch for throttle  
+slider switch for throttle  
   
   
 ## ap_airspeed_dial.lua

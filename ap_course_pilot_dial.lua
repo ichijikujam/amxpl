@@ -7,6 +7,5 @@ function dial_coursepilot_callback(direction)
   end
 end
 
--- Create a rotary encoder for the altimeter press
-hw_dial_add("ARDUINO_MEGA2560_A_D5", "ARDUINO_MEGA2560_A_D6", dial_coursepilot_callback)
+hw_dial_add("ARDUINO_MEGA2560_A_D5", "ARDUINO_MEGA2560_A_D6", "TYPE_1_DETENT_PER_PULSE", 10.0, 10, dial_coursepilot_callback
 
